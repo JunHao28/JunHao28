@@ -24,9 +24,9 @@
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=JunHao28&show_icons=true&theme=tokyonight&border_radius=10)](https://github.com/JunHao28/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=JunHao28&show_icons=true&theme=tokyonight&border_radius=10)](https://github.com/JunHao28/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunHao28&layout=compact&theme=tokyonight&border_radius=10)](https://github.com/JunHao28/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunHao28&layout=compact&theme=tokyonight&border_radius=10)](https://github.com/JunHao28/)
 <!--
 
 Here are some ideas to get you started:
