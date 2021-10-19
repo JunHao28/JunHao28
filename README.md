@@ -4,12 +4,12 @@
 ### Currently working on 
 - [National Robotics Competition 2021](https://github.com/JunHao28/NRC2021).
 -----
-**<h2>Tools:</h2>** <br>
+**<h2>Platforms:</h2>** <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white) 
 
 ---
 
-**<h2>Toolsl:</h2>**
+**<h2>Tools🔧:</h2>**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ---
